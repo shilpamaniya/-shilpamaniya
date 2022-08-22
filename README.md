@@ -28,8 +28,8 @@
 
 <br/>
 <a href="https://github.com/shilpamaniya">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vivekmaniyar&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekmaniyar&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shilpamaniya&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shilpamaniya&theme=buefy&layout=compact" />
 </a>
 
 <br/>
