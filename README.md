@@ -1,7 +1,7 @@
 <h2> Hey there! I'm Shilpa.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-- 🎓 &nbsp; Pursuing Master of Science (Information and Communication Technology) at Veer Narmad South Gujarat University.
+- 🎓 &nbsp; Pursuing Master of Science (Information and Communication Technology) at Veer Narmad South Gujarat University.<br>
 - 🤔 &nbsp; Exploring new technologies and developing web and mobile applications.
 - 🌱 &nbsp; Learning Full-Stack Web Development.
 <h3> 🛠 &nbsp;Tech Stack</h3>
